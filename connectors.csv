@@ -1,4 +1,4 @@
-from,to,connector
+Source,Target,connector
 highrisehq.com,helpspot.com,http://www.userscape.com/helpdesk/index.php?pg=kb.page&id=194
 highrisehq.com,zendesk.com,http://blog.zendesk.com/blog/2008/08/integrating-wit.html
 highrisehq.com,teamsupport.com,http://teamsupport.com/teamsupport_highrise_connect.php
