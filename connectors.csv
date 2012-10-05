@@ -52,7 +52,7 @@ highrisehq.com,billomat.com,http://www.billomat.com/en/blog/import-your-customer
 highrisehq.com,writethat.name,http://blog.writethat.name/kwaga-announces-the-release-of-its-first-crm-integration-with-writethat-name/
 highrisehq.com,onsip.com,http://www.onsip.com/tools/highrise
 highrisehq.com,directmailmanager.com,http://directmailmanager.com/land-highrise.asp
-# highrisehq.com,syncapps®bycazoomi,https://syncapps.cazoomi.com/features#highrise
+highrisehq.com,syncapps.cazoomi.com,https://syncapps.cazoomi.com/features#highrise
 highrisehq.com,jotform.com,http://www.jotform.com/blog/59-Easy-Contact-Management-with-Highrise
 highrisehq.com,osiaffiliate.com,http://www.osiaffiliate.com
 highrisehq.com,benchmarkemail.com,http://www.benchmarkemail.com/resources/highrise-integration
@@ -111,91 +111,43 @@ capsulecrm.com,quoteroller.com,http://www.quoteroller.com/services-integrations/
 capsulecrm.com,proposable.com,https://proposable.com/?c=22
 capsulecrm.com,wufooforms,http://support.capsulecrm.com/customer/portal/articles/188767-wufoo-webform-integration
 capsulecrm.com,edocr.com,http://www.edocr.com/capsuleCRM
-<<<<<<< HEAD
 capsulecrm.com,zferral.com,http://zferral.com/
 capsulecrm.com,grappster.com,http://www.grappster.com/dashboards/capsulecrm 
 capsulecrm.com,leftronic.com,https://www.leftronic.com
-capsulecrm.com,crmmate,http://itunes.apple.com/us/app/crm-mate-for-capsule-crm/id466711164?mt=8
-mailchimp.com,mailchimpmoduleforvtigercrm,http://www.targetintegration.com
-mailchimp.com,unbouncemailchimpsignup,http://www.mailchimp.com
-mailchimp.com,picniccrm,http://socialheads.com
-mailchimp.com,lessannoyingcrmmailchimpintegration,http://www.LessAnnoyingCRM.com
+capsulecrm.com,crmmate.com,http://itunes.apple.com/us/app/crm-mate-for-capsule-crm/id466711164?mt=8
+mailchimp.com,vTiger.com,http://www.targetintegration.com
+mailchimp.com,Unbounce.com,http://www.mailchimp.com
+mailchimp.com,PicnicCRM.com,http://socialheads.com
+mailchimp.com,lessannoyingcrm.com,http://www.LessAnnoyingCRM.com
 mailchimp.com,klaviyo.com,http://www.klaviyo.com
 mailchimp.com,bad.gy,http://bad.gy
-mailchimp.com,Social Referral Marketing Platform (CRM Relavant),http://www.vouchfor.com
-mailchimp.com,Subscriber Management in Gmail,http://wishery.com
-mailchimp.com,Dynamics CRM & Mailchimp Subscribers Synchronizer,http://www.bizminers.com
+mailchimp.com,vouchfor.com,http://www.vouchfor.com
+mailchimp.com,gmail.com,http://wishery.com
+mailchimp.com,crm.dynamics.com,http://www.bizminers.com
 mailchimp.com,batchbook.com,http://www.batchblue.com/
 mailchimp.com,Raven Reports Integration,http://www.mailchimp.com
 mailchimp.com,mycosuite.com,http://www.mycosuite.com
 mailchimp.com,Microsoft CRM & Mailchimp Integration,http://www.bizminers.com
 mailchimp.com,nimble.com,https://www.nimble.com
-mailchimp.com,mailchimplistsegmentation,https://zapier.com
-mailchimp.com,joomconnect'sconnectwisemailchimpintegration,http://www.joomconnect.com
-mailchimp.com,netsuitetomailchimpsync,http://cazoomi.com/mailchimp-netsuite
-mailchimp.com,amocrm-savetime, Save Money Grow Sales,http://www.amocrm.com,
-mailchimp.com,connectedhq.com,http://connectedhq.com
-mailchimp.com,serviceminderbyacueresoftware,http://www.acueresoftware.com
-mailchimp.com,sugarchimp,http://www.atcoresystems.com
-mailchimp.com,invokit-onlineinvoicingandcrmsoftware,http://www.invokit.com
-mailchimp.com,bccemailintegration,https://zapier.com/
-mailchimp.com,outlook™importandcontactmanagementapp,http://www.davton.com/mailchimp.html
-mailchimp.com,microsoftdynamicscrmandmailchimpintegration,http://www.powerobjects.com
-mailchimp.com,evernoteintegration,https://zapier.com/
-mailchimp.com,highriseintegration,https://zapier.com/
-mailchimp.com,simplechurchcrm,http://www.mailchimp.com
-mailchimp.com,norada,http://mailchimp.com
-mailchimp.com,sugarchimp,http://mailchimp.com
-mailchimp.com,freshbooks.com,http://www.freshbooks.com/
-mailchimp.com,amphissoftware,http://www.amphis-software.com/
-mailchimp.com,set&forget,http://coconect.com
-mailchimp.com,rightsignature™–easyonlinedocumentsigning,https://rightsignature.com
-mailchimp.com,getinform.com,http://www.getinform.com
-mailchimp.com,zohocrmtomailchimpintegration(ztm),http://www.suvichartech.com
-mailchimp.com,churchofficeonline|churchmanagementsoftware,http://www.churchofficeonline.com
-mailchimp.com,heap,http://mailchimp.com
-mailchimp.com,capsulecrmintegration,https://zapier.com/
-mailchimp.com,salesforceintegration,https://zapier.com/
-=======
-capsulecrm.com,Zferral.com,http://zferral.com/
-capsulecrm.com,Grappster.com,http://www.grappster.com/dashboards/capsulecrm 
-capsulecrm.com,Leftronic.com,https://www.leftronic.com
-capsulecrm.com,crmmate.com,http://itunes.apple.com/us/app/crm-mate-for-capsule-crm/id466711164?mt=8
-mailchimp.com,vTiger.com,http://www.targetintegration.com
-mailchimp.com,Unbounce.com,http://www.mailchimp.com
-mailchimp.com,PicnicCRM.com,http://socialheads.com
-mailchimp.com,LessAnnoyingCRM.com,http://www.LessAnnoyingCRM.com
-mailchimp.com,Klaviyo.com,http://www.klaviyo.com
-mailchimp.com,Bad.gy,http://bad.gy
-mailchimp.com,vouchfor.com,http://www.vouchfor.com
-mailchimp.com,gmail.com,http://wishery.com
-mailchimp.com,crm.dynamics.com,http://www.bizminers.com
-mailchimp.com,Batchbook.com,http://www.batchblue.com/
-mailchimp.com,raventools.com/internet-marketing-tools,http://www.mailchimp.com
-mailchimp.com,MYCO Suite.com,http://www.mycosuite.com
-mailchimp.com,nimble.com,https://www.nimble.com
 mailchimp.com,joomconnect.com,http://www.joomconnect.com
 mailchimp.com,NetSuite.com,http://cazoomi.com/mailchimp-netsuite
-mailchimp.com,amoCRM.com,http://www.amoCRM.com
-mailchimp.com,Connectedhq.com,http://connectedhq.com
+mailchimp.com,amocrm.com,http://www.amocrm.com
+mailchimp.com,connectedhq.com,http://connectedhq.com
 mailchimp.com,serviceminder.net,http://www.acueresoftware.com
 mailchimp.com,sugarcrm.com,http://www.atcoresystems.com
 mailchimp.com,invokit.com,http://www.invokit.com
 mailchimp.com,office.microsoft.com,http://www.davton.com/mailchimp.html
-mailchimp.com,Evernote.com,https://zapier.com/
-mailchimp.com,Highrisehq.com,https://zapier.com/
-mailchimp.com,SimpleChurchCRM.com,http://www.mailchimp.com
+mailchimp.com,simplechurchcrm.com,http://www.mailchimp.com
 mailchimp.com,Norada.com,http://mailchimp.com
-mailchimp.com,Freshbooks.com,http://www.freshbooks.com/
+mailchimp.com,freshbooks.com,http://www.freshbooks.com/
 mailchimp.com,Amphis Software,http://www.amphis-software.com/
 mailchimp.com,coconect.com,http://coconect.com
 mailchimp.com,rightsignature.com,https://rightsignature.com
-mailchimp.com,GetinForm.com,http://www.getinform.com
+mailchimp.com,getinform.com,http://www.getinform.com
 mailchimp.com,churchofficeonline.comchurchofficeonline.com,http://www.churchofficeonline.com
 mailchimp.com,heap.wbpsystems.com,http://mailchimp.com
-mailchimp.com,Capsule CRM.com,https://zapier.com/
-mailchimp.com,Salesforce Integration,https://zapier.com/
->>>>>>> cb848b28c789b7eb595778747ce0deac29532679
+mailchimp.com,capsulecrm.com,https://zapier.com/
+mailchimp.com,salesforceintegration,https://zapier.com/
 mailchimp.com,ambar,http://www.digital-express.com.ar
 mailchimp.com,insightlymailchimpintegration,http://insight.ly
 mailchimp.com,gmailintegration,https://zapier.com/
