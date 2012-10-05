@@ -9,7 +9,7 @@ highrisehq.com,zopim.com,http://blog.zopim.com/?page_id=738
 highrisehq.com,ringio.com,http://support.ringio.com/entries/440645-ringio-highrise-integration
 highrisehq.com,olark.com,http://www.olark.com/highrise
 highrisehq.com,onecallnow.com,http://www.onecallnow.com/business
-highrisehq.com,getsatisfaction,https://syncapps.cazoomi.com/features-support#getSatisfaction
+highrisehq.com,getsatisfaction.com,https://syncapps.cazoomi.com/features-support#getSatisfaction
 highrisehq.com,ecquire.com,http://www.ecquire.com/highrise?cs
 highrisehq.com,clickdesk.com,http://www.clickdesk.com/highrise-live-chat.jsp
 highrisehq.com,userlike.com,http://www.userlike.com
@@ -26,7 +26,7 @@ highrisehq.com,wufoo.com,http://wufoo.com/2010/01/26/wufoos-highrise-integration
 highrisehq.com,freshbooks.com,http://community.freshbooks.com/addons/view/highrise/
 highrisehq.com,redcritter.com,http://www.redcritter.com/app.aspx?i=62
 highrisehq.com,zferral.com,http://zferral.com/
-highrisehq.com,wphighrisecontact,http://wordpress.org/extend/plugins/wp-highrise-contact/
+highrisehq.com,wordpress.org,http://wordpress.org/extend/plugins/wp-highrise-contact/
 highrisehq.com,proposable.com,http://proposable.com/?c=11
 highrisehq.com,hubspot.com,https://app.hubspot.com/market/front/highrise
 highrisehq.com,constantcontact.com,http://marketplace.constantcontact.com/Listing?id=a007000000C1fiOAAR
@@ -37,7 +37,6 @@ highrisehq.com,snapengage.com,http://www.snapengage.com/
 highrisehq.com,zopim.com,http://blog.zopim.com/?page_id=738
 highrisehq.com,activecampaign.com,http://www.activecampaign.com/emailmarketing/
 highrisehq.com,contextromotions.com,http://www.contextpromotions.com
-highrisehq.com,gravityforms,http://www.glidedesign.com/finally-highrise-addon-gravity-forms/
 highrisehq.com,directiq.com,http://www.directiq.com
 highrisehq.com,quoteroller.com,http://www.quoteroller.com/
 highrisehq.com,olark.com,http://www.olark.com/highrise
@@ -53,7 +52,7 @@ highrisehq.com,billomat.com,http://www.billomat.com/en/blog/import-your-customer
 highrisehq.com,writethat.name,http://blog.writethat.name/kwaga-announces-the-release-of-its-first-crm-integration-with-writethat-name/
 highrisehq.com,onsip.com,http://www.onsip.com/tools/highrise
 highrisehq.com,directmailmanager.com,http://directmailmanager.com/land-highrise.asp
-highrisehq.com,syncapps®bycazoomi,https://syncapps.cazoomi.com/features#highrise
+# highrisehq.com,syncapps®bycazoomi,https://syncapps.cazoomi.com/features#highrise
 highrisehq.com,jotform.com,http://www.jotform.com/blog/59-Easy-Contact-Management-with-Highrise
 highrisehq.com,osiaffiliate.com,http://www.osiaffiliate.com
 highrisehq.com,benchmarkemail.com,http://www.benchmarkemail.com/resources/highrise-integration
@@ -90,15 +89,16 @@ highrisehq.com,zapier.com,https://zapier.com/zapbook/highrise/
 highrisehq.com,77reports.com,http://www.77reports.com
 highrisehq.com,leftronic.com,https://www.leftronic.com
 highrisehq.com,unifyo.com,https://unifyo.com
-nimble.com,mailchimpemail,http://www.nimble.com/how-it-works/integrations/mailchimp/
+nimble.com,mailchimp.com,http://www.nimble.com/how-it-works/integrations/mailchimp/
 nimble.com,wufoo.com,http://www.nimble.com/how-it-works/integrations/wufoo/
-nimble.com,hubspotall,http://www.nimble.com/how-it-works/integrations/hubspot/
+nimble.com,Wufoo.com,http://www.nimble.com/how-it-works/integrations/wufoo/
+nimble.com,hubspot.com,http://www.nimble.com/how-it-works/integrations/hubspot/
 capsulecrm.com,xero.com,http://www.capsulecrm.com/help/page/xero
-capsulecrm.com,kashflow,http://www.capsulecrm.com/help/page/kashflow
-capsulecrm.com,freeagent,http://freeagent.com/central/freeagent-now-integrates-with-capsule
-capsulecrm.com,freshbooks,http://community.freshbooks.com/addons/view/capsule/
-capsulecrm.com,googleapps,http://capsulecrm.com/crmforgoogleapps
-capsulecrm.com,rightsignature,http://capsulecrm.com/addons/rightsignature
+capsulecrm.com,kashflow.com,http://www.capsulecrm.com/help/page/kashflow
+capsulecrm.com,freeagent.com,http://freeagent.com/central/freeagent-now-integrates-with-capsule
+capsulecrm.com,freshbooks.com,http://community.freshbooks.com/addons/view/capsule/
+capsulecrm.com,apps.google.com,http://capsulecrm.com/crmforgoogleapps
+capsulecrm.com,rightsignature.com,http://capsulecrm.com/addons/rightsignature
 capsulecrm.com,zendesk.com,http://www.zendesk.com/
 capsulecrm.com,freshdesk.com,http://blog.freshdesk.com/freshdesk-is-now-integrated-with-capsule-crm
 capsulecrm.com,clickdesk.com,http://www.clickdesk.com/capsule-live-chat.jsp
@@ -114,7 +114,6 @@ capsulecrm.com,edocr.com,http://www.edocr.com/capsuleCRM
 capsulecrm.com,zferral.com,http://zferral.com/
 capsulecrm.com,grappster.com,http://www.grappster.com/dashboards/capsulecrm 
 capsulecrm.com,leftronic.com,https://www.leftronic.com
-capsulecrm.com,water,http://itunes.apple.com/us/app/water-for-capsulecrm/id418110927?mt=8
 capsulecrm.com,crmmate,http://itunes.apple.com/us/app/crm-mate-for-capsule-crm/id466711164?mt=8
 mailchimp.com,mailchimpmoduleforvtigercrm,http://www.targetintegration.com
 mailchimp.com,unbouncemailchimpsignup,http://www.mailchimp.com
@@ -122,19 +121,18 @@ mailchimp.com,picniccrm,http://socialheads.com
 mailchimp.com,lessannoyingcrmmailchimpintegration,http://www.LessAnnoyingCRM.com
 mailchimp.com,klaviyo.com,http://www.klaviyo.com
 mailchimp.com,bad.gy,http://bad.gy
-mailchimp.com,socialreferralmarketingplatform(crmrelavant),http://www.vouchfor.com
-mailchimp.com,subscribermanagementingmail,http://wishery.com
-mailchimp.com,dynamicscrm&mailchimpsubscriberssynchronizer,http://www.bizminers.com
+mailchimp.com,Social Referral Marketing Platform (CRM Relavant),http://www.vouchfor.com
+mailchimp.com,Subscriber Management in Gmail,http://wishery.com
+mailchimp.com,Dynamics CRM & Mailchimp Subscribers Synchronizer,http://www.bizminers.com
 mailchimp.com,batchbook.com,http://www.batchblue.com/
-mailchimp.com,ravenreportsintegration,http://www.mailchimp.com
+mailchimp.com,Raven Reports Integration,http://www.mailchimp.com
 mailchimp.com,mycosuite.com,http://www.mycosuite.com
-mailchimp.com,microsoftcrm&mailchimpintegration,http://www.bizminers.com
+mailchimp.com,Microsoft CRM & Mailchimp Integration,http://www.bizminers.com
 mailchimp.com,nimble.com,https://www.nimble.com
 mailchimp.com,mailchimplistsegmentation,https://zapier.com
 mailchimp.com,joomconnect'sconnectwisemailchimpintegration,http://www.joomconnect.com
 mailchimp.com,netsuitetomailchimpsync,http://cazoomi.com/mailchimp-netsuite
-mailchimp.com,amocrm-savetime, Save Money
- Grow Sales,http://www.amocrm.com,
+mailchimp.com,amocrm-savetime, Save Money Grow Sales,http://www.amocrm.com,
 mailchimp.com,connectedhq.com,http://connectedhq.com
 mailchimp.com,serviceminderbyacueresoftware,http://www.acueresoftware.com
 mailchimp.com,sugarchimp,http://www.atcoresystems.com
