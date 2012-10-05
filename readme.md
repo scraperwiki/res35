@@ -16,3 +16,4 @@ We ignored Salesforce because its marketplace was too big and we
 couldn't easily tell what the connections were.
 
 All three of these first three CRM connect to MailChimp and Wufoo.
+We copied the CRM integrations (not other integrations) from the Mailchimp site.
