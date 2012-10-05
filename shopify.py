@@ -3,7 +3,7 @@ from urllib2 import urlopen
 from lxml.html import fromstring
 from time import sleep
 
-done = '' #open('shopify.csv').read()
+done = open('shopify.csv').read()
 
 def main():
     html = fromstring(urlopen('http://apps.shopify.com').read())
