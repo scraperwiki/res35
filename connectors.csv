@@ -1,14 +1,14 @@
 from,to,connector
 highrisehq.com,HelpSpot,http://www.userscape.com/helpdesk/index.php?pg=kb.page&id=194
 highrisehq.com,zendesk.com,http://blog.zendesk.com/blog/2008/08/integrating-wit.html
-highrisehq.com,TeamSupport,http://teamsupport.com/teamsupport_highrise_connect.php
-highrisehq.com,Dispatch,http://getdispatch.com
-highrisehq.com,LiveChat,http://www.livechatinc.com/addons/highrise/?partner=highrise
-highrisehq.com,SnapEngage,http://www.snapengage.com/
-highrisehq.com,Zopim,http://blog.zopim.com/?page_id=738
-highrisehq.com,Ringio,http://support.ringio.com/entries/440645-ringio-highrise-integration
-highrisehq.com,Olark,http://www.olark.com/highrise
-highrisehq.com,One Call Now,http://www.onecallnow.com/business
+highrisehq.com,teamsupport.com,http://teamsupport.com/teamsupport_highrise_connect.php
+highrisehq.com,getdispatch.com,http://getdispatch.com
+highrisehq.com,livechatinc.com,http://www.livechatinc.com/addons/highrise/?partner=highrise
+highrisehq.com,snapengage.com,http://www.snapengage.com/
+highrisehq.com,zopim.com,http://blog.zopim.com/?page_id=738
+highrisehq.com,ringio.com,http://support.ringio.com/entries/440645-ringio-highrise-integration
+highrisehq.com,olark.com,http://www.olark.com/highrise
+highrisehq.com,onecallnow.com,http://www.onecallnow.com/business
 highrisehq.com,Get Satisfaction,https://syncapps.cazoomi.com/features-support#getSatisfaction
 highrisehq.com,Ecquire,http://www.ecquire.com/highrise?cs
 highrisehq.com,ClickDesk,http://www.clickdesk.com/highrise-live-chat.jsp
